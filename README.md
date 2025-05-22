@@ -3,6 +3,8 @@
 ## Overview
 VectArt Animation is a powerful Blender add-on designed to orchestrate expressive, "orchestral" animations for collections of mesh and curve objects. It provides advanced timing, sequencing, collision avoidance, and preset-driven animation styles, all with a modern, grid-based UI.
 
+https://www.youtube.com/watch?v=Vt5JusE0IqM
+
 ## Features
 - Collection-Based Animation: Animate all objects in a collection with a single click.
 - Orchestral Timing: Control sequencing with delay modes, overlap, randomness, and a unique "Musicality" slider.
