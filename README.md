@@ -1,3 +1,6 @@
+<img width="1425" height="755" alt="Screenshot from 2026-05-18 01-28-52" src="https://github.com/user-attachments/assets/876b92bc-bb5a-43b4-b539-d47f84f29f9f" />
+
+
 # VectArt Animation Add-on
 
 **Author:** Dimona Patrick  
